@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc">
-  <title id="title">Everyday AI Agent Toolkit</title>
-  <desc id="desc">A portable library of AI agent skills, specialist roles and templates for everyday coding, software delivery, research and technical work.</desc>
+  <title id="title">Agent Engineering Toolkit</title>
+  <desc id="desc">Portable AI agent skills, specialist roles, and workflow templates for software engineering, coding, testing, research, and technical delivery.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070b17"/><stop offset=".55" stop-color="#10172d"/><stop offset="1" stop-color="#17102b"/></linearGradient>
     <radialGradient id="glowA"><stop stop-color="#6d4aff" stop-opacity=".34"/><stop offset="1" stop-color="#6d4aff" stop-opacity="0"/></radialGradient>
@@ -19,14 +19,14 @@
   </g>
   <rect x="48" y="42" width="62" height="62" rx="17" fill="#101a35" stroke="url(#accent)" stroke-width="2.5"/>
   <path d="M68 61L84 73L68 85M90 86H99" fill="none" stroke="#c7baff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="130" y="84" fill="#f4f6ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="35" font-weight="750" letter-spacing="-.8">Everyday AI Agent Toolkit</text>
+  <text x="130" y="84" fill="#f4f6ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="35" font-weight="750" letter-spacing="-.8">Agent Engineering Toolkit</text>
   <rect x="555" y="54" width="115" height="30" rx="15" fill="#201b45" stroke="#7562ce"/>
-  <text x="612" y="74" fill="#d8ceff" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">OPEN TOOLKIT</text>
+  <text x="612" y="74" fill="#d8ceff" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">ENGINEERING SKILLS</text>
   <text x="52" y="190" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="56" font-weight="760" letter-spacing="-1.6">Think clearly.</text>
   <text x="52" y="255" fill="url(#accent)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="56" font-weight="760" letter-spacing="-1.6">Build deliberately.</text>
   <text x="52" y="320" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="56" font-weight="760" letter-spacing="-1.6">Ship with confidence.</text>
-  <text x="56" y="374" fill="#bdc8df" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">Portable skills, specialist roles, and templates for everyday agent work</text>
-  <text x="56" y="405" fill="#bdc8df" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">for coding, software delivery, research, and more.</text>
+  <text x="56" y="374" fill="#bdc8df" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">Portable AI agent skills for software engineering and technical research</text>
+  <text x="56" y="405" fill="#bdc8df" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">for coding, testing, research, and technical delivery.</text>
   <g font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="650" font-size="16">
     <rect x="54" y="452" width="154" height="48" rx="12" fill="#182443" stroke="#6b74c9"/><text x="131" y="482" fill="#f2f4ff" text-anchor="middle">50 SKILLS</text>
     <rect x="222" y="452" width="190" height="48" rx="12" fill="#182443" stroke="#8b6cce"/><text x="317" y="482" fill="#f2f4ff" text-anchor="middle">10 AGENT ROLES</text>
@@ -39,7 +39,7 @@
     <rect width="610" height="48" rx="20" fill="#1b2746"/>
     <path d="M0 48H610" stroke="#445a85"/>
     <circle cx="27" cy="24" r="6" fill="#ff7185"/><circle cx="48" cy="24" r="6" fill="#ffc66d"/><circle cx="69" cy="24" r="6" fill="#55d6a0"/>
-    <text x="98" y="30" fill="#cbd8f6" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">everyday-ai-agent-toolkit / workflow</text>
+    <text x="98" y="30" fill="#cbd8f6" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="15">agent-engineering-toolkit / workflow</text>
     <text x="28" y="88" fill="#9caed3" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14">$ select_workflow --task "ship a reliable change"</text>
     <g font-family="Inter,Segoe UI,Arial,sans-serif">
       <rect x="25" y="112" width="560" height="47" rx="10" fill="#1a2a4a" stroke="#465b89"/>
