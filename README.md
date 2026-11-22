@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="assets/agent-workbench-banner.svg" alt="Everyday AI Agent Toolkit — Think clearly. Build deliberately. Ship with confidence." width="100%" />
-  <p><strong>Practical skills for everyday AI agent work.</strong></p>
-  <p>A practical, portable library of AI agent skills, specialist roles, and templates for everyday coding, software delivery, research, and technical work across Claude Code, Codex, and compatible agents.</p>
+  <img src="assets/agent-workbench-banner.svg" alt="Agent Engineering Toolkit — Portable AI agent skills for software engineering and technical research." width="100%" />
+  <p><strong>Portable AI agent skills for software engineering and technical research.</strong></p>
+  <p>Portable AI agent skills, specialist roles, and workflow templates for software engineering, coding, testing, research, and technical delivery across Claude Code, Codex, and compatible agents.</p>
   <p>
     <img alt="50 skills" src="https://img.shields.io/badge/50-skills-7567d8?style=flat-square" />
     <img alt="10 agent roles" src="https://img.shields.io/badge/10-agent%20roles-4f8fc9?style=flat-square" />
@@ -21,13 +21,13 @@
 
 <div align="center">
   <a href="assets/agent-workbench-overview.mp4">
-    <img src="assets/agent-workbench-preview.gif" alt="Animated visual preview of Everyday AI Agent Toolkit workflows" width="820" />
+    <img src="assets/agent-workbench-preview.gif" alt="Animated visual preview of Agent Engineering Toolkit workflows" width="820" />
   </a>
   <p><sub>Short illustrative animation — not a recording of the software. Click the preview to open the MP4 version.</sub></p>
-  <img src="assets/workflow-overview.png" alt="The Everyday AI Agent Toolkit workflow: explore, plan, build, verify, review, and ship" width="100%" />
+  <img src="assets/workflow-overview.png" alt="The Agent Engineering Toolkit workflow: explore, plan, build, verify, review, and ship" width="100%" />
 </div>
 
-Everyday AI Agent Toolkit brings together independently written, focused skills and portable role cards for Claude Code, Codex, and compatible agent environments. Use only the workflows a task needs: explore a codebase, clarify requirements, implement a change, verify the result, research a question, or prepare a clear handoff.
+Agent Engineering Toolkit brings together independently written, focused skills and portable role cards for Claude Code, Codex, and compatible agent environments. Use only the workflows a task needs: explore a codebase, clarify requirements, implement a change, verify the result, research a question, or prepare a clear handoff.
 
 It is a curated multi-source project, **not a mirror or bulk import**. Each skill has a defined purpose and activation boundary. The source map records the repositories that informed the collection; no upstream `SKILL.md` files or third-party scripts are vendored. See [SOURCES.md](SOURCES.md) for attribution and license notes, and [SKILL_CATALOG.md](SKILL_CATALOG.md) for additional projects worth exploring.
 
@@ -198,7 +198,7 @@ The overlap tool is a transparent lexical heuristic over descriptions and headin
 
 ## Support the project
 
-If Everyday AI Agent Toolkit makes your day-to-day work with AI agents more useful, consider **starring the repository**. A star helps other developers discover the project and signals which workflows are worth improving. Issues and focused contributions are welcome; please include a concrete use case when suggesting a new skill.
+If Agent Engineering Toolkit makes your engineering and research work with AI agents more useful, consider **starring the repository**. A star helps other developers discover the project and signals which workflows are worth improving. Issues and focused contributions are welcome; please include a concrete use case when suggesting a new skill.
 
 ## License
 
